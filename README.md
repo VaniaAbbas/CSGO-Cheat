@@ -27,13 +27,6 @@ From this project, I developed skills in:
 
 ---
 
-## 📝 License
-
-This project is released under the **MIT License** for academic use only.  
-Commercial or malicious use is strictly prohibited.
-
----
-
 **Author:** Vania Abbas  
 **Course:** Vulnerability Assessment and Reverse Engineering  
 **Note:** Always use ethical hacking practices.
